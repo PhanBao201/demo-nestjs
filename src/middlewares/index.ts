@@ -1,3 +1,5 @@
 import { LoggerMiddleWare } from "./logger.middleware";
 
-export default LoggerMiddleWare;
+export const middlewareItem = {
+    LoggerMiddleWare
+};
